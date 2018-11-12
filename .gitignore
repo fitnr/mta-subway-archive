@@ -1,0 +1,4 @@
+*.pyc
+__pycache__
+output
+2018
